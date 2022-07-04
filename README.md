@@ -30,3 +30,5 @@ THEN I am able to view with user-friendly layout without scrolling horizontally
 
 ## Link
 
+<a href="https://leanonruthie.github.io/RYK_Portfolio_2022">https://leanonruthie.github.io/RYK_Portfolio_2022/</a>
+
