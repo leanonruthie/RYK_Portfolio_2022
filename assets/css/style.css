@@ -33,6 +33,9 @@ h2 {
     padding-bottom: 3px;
     height: 37px;
 }
+footer {
+    width: 100%;
+}
 
 footer p {
     text-align: center;
@@ -155,24 +158,17 @@ aside {
 }
 
 @media screen and (max-width: 768px) {
-    main {
-        flex: 1;
-    }
 
-    main img {
-        flex: 1;
-    }
+.total {
+    display: flex;
+    flex-direction: column;
+}
 
-    main p {
-        flex 1;
-    }
+.main {
+    flex-basis: 100%;
+}
 
-    .Column {
-        flex: 1;
-    }
-
-    .Column p {
-        font-size: 9px;
-    }
-
+.aside {
+    flex-basis: 100%;
+}
 }

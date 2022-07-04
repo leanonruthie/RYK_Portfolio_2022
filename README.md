@@ -24,6 +24,9 @@ THEN I am able to view with user-friendly layout without scrolling horizontally
 
 ## Final Screenshot
 
+<img src="./assets/images/_Users_ruthkim_Desktop_RYK_Portfolio_2022_index.html.png" alt="Final_1"/>
+
+<img src="./assets/images/_Users_ruthkim_Desktop_RYK_Portfolio_2022_index.html (1).png" alt="Final_2"/>
 
 ## Link
 
